@@ -85,7 +85,7 @@ li.active {
 }
 
 .new:hover {
-	background-color: #16DF45;
+	background-color: rgb(223, 22, 163);
 }
 
 .search {
